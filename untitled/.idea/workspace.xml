@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="330e9f7f-ab9e-4f0c-84d5-055aa1e27558" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw.py" afterPath="$PROJECT_DIR$/hw.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="untitled.iws" />
@@ -289,7 +290,11 @@
       <created>1409239877127</created>
       <updated>1409239877127</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit hw.py">
+      <created>1409239939682</created>
+      <updated>1409239939682</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
